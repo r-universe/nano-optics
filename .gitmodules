@@ -7,3 +7,4 @@
 	path = planar
 	url = https://github.com/nano-optics/planar
 	shallow = true
+	registered = true
