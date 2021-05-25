@@ -2,5 +2,21 @@
   {
     "package": "planar",
     "oncran": true
+  },
+  {
+    "package": "rcppfaddeeva"
+  },
+  {
+    "package": "cda"
+  },
+  {
+    "package": "mie"
+  },
+  {
+    "package": "cubs"
+  },
+  {
+    "package": "dielectric",
+    "oncran": false
   }
 ]
