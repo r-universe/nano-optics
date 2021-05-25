@@ -1,22 +1,22 @@
 [
   {
-    "package": "planar",
-    "oncran": true
-  },
-  {
-    "package": "rcppfaddeeva"
+    "package": "dielectric",
+    "oncran": false
   },
   {
     "package": "cda"
   },
   {
+    "package": "planar",
+    "oncran": true
+  },
+  {
     "package": "mie"
   },
   {
-    "package": "cubs"
+    "package": "rcppfaddeeva"
   },
   {
-    "package": "dielectric",
-    "oncran": false
+    "package": "cubs"
   }
 ]

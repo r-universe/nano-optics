@@ -3,14 +3,9 @@
 	url = https://github.com/nano-optics/universe
 	shallow = true
 	branch = HEAD
-[submodule "planar"]
-	path = planar
-	url = https://github.com/nano-optics/planar
-	shallow = true
-	registered = true
-[submodule "rcppfaddeeva"]
-	path = rcppfaddeeva
-	url = https://github.com/nano-optics/rcppfaddeeva
+[submodule "dielectric"]
+	path = dielectric
+	url = https://github.com/nano-optics/dielectric
 	shallow = true
 	registered = true
 [submodule "cda"]
@@ -18,18 +13,23 @@
 	url = https://github.com/nano-optics/cda
 	shallow = true
 	registered = true
+[submodule "planar"]
+	path = planar
+	url = https://github.com/nano-optics/planar
+	shallow = true
+	registered = true
 [submodule "mie"]
 	path = mie
 	url = https://github.com/nano-optics/mie
 	shallow = true
 	registered = true
+[submodule "rcppfaddeeva"]
+	path = rcppfaddeeva
+	url = https://github.com/nano-optics/rcppfaddeeva
+	shallow = true
+	registered = true
 [submodule "cubs"]
 	path = cubs
 	url = https://github.com/nano-optics/cubs
-	shallow = true
-	registered = true
-[submodule "dielectric"]
-	path = dielectric
-	url = https://github.com/nano-optics/dielectric
 	shallow = true
 	registered = true
