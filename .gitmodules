@@ -23,11 +23,6 @@
 	url = https://github.com/nano-optics/mie
 	shallow = true
 	registered = true
-[submodule "rcppfaddeeva"]
-	path = rcppfaddeeva
-	url = https://github.com/nano-optics/rcppfaddeeva
-	shallow = true
-	registered = true
 [submodule "cubs"]
 	path = cubs
 	url = https://github.com/nano-optics/cubs
