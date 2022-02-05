@@ -33,3 +33,8 @@
 	url = https://github.com/nano-optics/cubs
 	shallow = true
 	registered = true
+[submodule "terms"]
+	path = terms
+	url = https://github.com/nano-optics/terms
+	shallow = true
+	registered = true
