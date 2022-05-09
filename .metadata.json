@@ -1,14 +1,12 @@
 [
   {
-    "package": "dielectric",
-    "oncran": false
+    "package": "dielectric"
   },
   {
     "package": "cda"
   },
   {
-    "package": "planar",
-    "oncran": true
+    "package": "planar"
   },
   {
     "package": "mie"
