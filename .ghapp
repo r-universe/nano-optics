@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["cda", "cubs", "dielectric", "mie", "planar", "RcppFaddeeva", "terms"]
+  "repositories": ["mie", "cda", "planar", "dielectric", "RcppFaddeeva", "cubs", "terms"]
 }
