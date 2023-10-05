@@ -17,9 +17,9 @@
 [submodule "planar"]
 	path = planar
 	url = https://github.com/nano-optics/planar
-[submodule "rcppfaddeeva"]
-	path = rcppfaddeeva
-	url = https://github.com/nano-optics/rcppfaddeeva
+[submodule "RcppFaddeeva"]
+	path = RcppFaddeeva
+	url = https://github.com/nano-optics/RcppFaddeeva
 [submodule "terms"]
 	path = terms
 	url = https://github.com/nano-optics/terms
