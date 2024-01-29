@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nano-optics/universe
+	url = https://github.com/nano-optics/nano-optics.r-universe.dev
 	branch = HEAD
 [submodule "RcppFaddeeva"]
 	path = RcppFaddeeva
